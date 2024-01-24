@@ -1,4 +1,4 @@
-image caption框架
+2022nlp夏令营中使用的image caption及RLHF框架
 ````
 ├── config.py	# 各类参数
 ├── data	# 数据，原始数据为带有annotations的4个json文件
